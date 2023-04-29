@@ -1,3 +1,5 @@
+"use client";
+
 import Todo from "@/app/todo";
 
 const getTodos = async () => {
